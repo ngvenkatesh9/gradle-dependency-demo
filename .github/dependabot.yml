@@ -6,6 +6,6 @@
 version: 2
 updates:
   - package-ecosystem: "gradle" # See documentation for possible values
-    directory: "git_gradle_test" # Location of package manifests
+    directory: "/git_gradle_test" # Location of package manifests
     schedule:
       interval: "daily"
