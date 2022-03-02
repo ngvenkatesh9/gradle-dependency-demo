@@ -9,3 +9,5 @@ updates:
     directory: "/git_gradle_test" # Location of package manifests
     schedule:
       interval: "daily"
+      time: "11:24"
+      timezone: "Asia/kolkata"
